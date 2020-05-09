@@ -10,7 +10,7 @@
 
 }
 body {
-    background: url('amrih.jpg');
+    background: url('images/amrih.jpg');
 }
 
 
@@ -295,7 +295,7 @@ h1:hover {
 
  @media only screen and (max-width: 600px) {
   body {
-    background: url('amrih.jpg');
+    background: url('images/amrih.jpg');
   }
   .textme {
       width:95%;
